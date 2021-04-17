@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>Merhaba dünya</h1>
+<p>Bunu halletmek hiç de zor olmadı</p>
+
+</body>
+</html>
